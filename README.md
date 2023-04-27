@@ -6,7 +6,17 @@
 ![Logo](/Docs/Images/milibox.gif)
 </div>
   <center><h3>국방 블랙박스 : 군부대 출입차량용 암호화 영상기록 체계</h3></center>
-><center><h3>보안과 편리성을 위한 암호화 블랙박스</h3></center>
+<center><h3>보안과 편리성을 위한 암호화 블랙박스</h3></center>
+
+
+## 공군참모총장상 수상
+
+[![시상식](/Docs/Images/awards1.jpg)](https://www.youtube.com/live/RfgJuWulpJA?feature=share&t=5723)
+[![시상식](/Docs/Images/awards2.jpg)](https://www.youtube.com/live/RfgJuWulpJA?feature=share&t=5723)
+[![시상식](/Docs/Images/awards3.jpg)](https://www.youtube.com/live/RfgJuWulpJA?feature=share&t=5723)
+
+[시상식 영상](https://www.youtube.com/live/RfgJuWulpJA?feature=share&t=5723)
+
 
 ## 목차
 
@@ -111,6 +121,18 @@
 ![영상 반출 승인 관리](/Docs/Images/approve1.png)
 </div>
 
+
+* 암호화된 영상파일을 자체 파일 구조로 생성
+<div align=center>
+
+![암호화영상파일구조](/Docs/Images/암호화파일구조.jpg)
+</div>
+
+
+<div align=center>
+
+![활용](/Docs/Images/활용.jpg)
+</div>
 
 ## 기기 구성 / 필수 조건 안내 (Prerequisites)
 
